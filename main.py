@@ -129,7 +129,6 @@ st.markdown("""
     .feature-card {
         margin-bottom: 1rem;
         padding: 1rem;
-        background: #f8f9fa;
         border-radius: 8px;
         border-left: 4px solid #FF0000;
     }
@@ -601,4 +600,5 @@ def main():
         create_welcome_screen()
 
 if __name__ == "__main__":
+
     main()

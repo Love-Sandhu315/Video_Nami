@@ -203,7 +203,6 @@ st.markdown("""
 
 /* Instructions section */
 .instructions {
-    background: #f8f9fa;
     padding: 1rem;
     border-radius: 8px;
     margin: 1rem 0;
@@ -602,3 +601,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+

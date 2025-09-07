@@ -6,7 +6,7 @@
 
 **VideoNami** is an intelligent YouTube video chatbot that allows you to have natural conversations with any YouTube video content. Simply paste a YouTube URL, and start asking questions about the video - powered by advanced AI models and semantic search.
 
-![VideoNami Demo](https://your-demo-gif-url.gif)
+![VideoNami Demo] https://github.com/user-attachments/assets/9898b68c-f88a-4eec-b2e3-514f32bad241
 
 ## ✨ Features
 

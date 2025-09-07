@@ -215,6 +215,6 @@ We welcome contributions! Here's how you can help:
 
 
 
-**Made with ❤️ by Lovepreet Singh(https://github.com/yourusername)**
+**Made with ❤️ by Lovepreet Singh(https://github.com/Love-Sandhu315)**
 
 *If you find VideoNami useful, please consider giving it a ⭐!*
